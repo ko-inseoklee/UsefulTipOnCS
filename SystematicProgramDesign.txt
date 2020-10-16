@@ -1,0 +1,10 @@
+- Program Analysis
+    Sometimes the program encounters unexpected cases.
+    So, in designing time, The programmer should consider possible case of the program.
+
+- Data Definitions
+    If you build program, the program should have structure of data. such as ID, PW, list, description, etc.
+    In order to run the program efficiently, It is important that express structure between the related data well. 연관된 데이터들 간의 구조를 잘 표현하는 것이 중요하다.
+    So, Organizing data structure is very important.
+
+ref. 20-2 PL class from JC, HGU.
